@@ -1,0 +1,72 @@
+{
+  "students": [
+    {
+      "id": "3",
+      "firstName": "sudheer",
+      "lastName": "panchal",
+      "date": "1996-04-30",
+      "email": "sudheer@gmail.com",
+      "mobile": "9741850094",
+      "gender": "MALE",
+      "address": "Jonnekeri post-kolluer state-karnatak",
+      "city": "Bidar",
+      "pincode": "585326",
+      "state": "karnataka",
+      "country": "india",
+      "hobbies": [
+        "[",
+        "]",
+        "singing",
+        "dancing",
+        "drawing"
+      ]
+    },
+    {
+      "id": "6",
+      "firstName": "vaishnavi",
+      "lastName": "panchal",
+      "date": "2003-03-30",
+      "email": "vaishnavi@gmail.com",
+      "mobile": "9741850094",
+      "gender": "FEMALE",
+      "address": "pune",
+      "city": "pune",
+      "pincode": "416561",
+      "state": "maharastra",
+      "country": "india",
+      "hobbies": [
+        "singing"
+      ]
+    },
+    {
+      "id": "5",
+      "firstName": "abhishek",
+      "lastName": "akkanna",
+      "date": "2022-10-01",
+      "email": "an@gmai.com",
+      "mobile": "9741850085",
+      "gender": "MALE",
+      "address": "pune",
+      "city": "pune",
+      "pincode": "585326",
+      "state": "karnataka",
+      "country": "india",
+      "hobbies": ""
+    },
+    {
+      "id": "8",
+      "firstName": "abhishek",
+      "lastName": "akkanna",
+      "date": "2022-09-28",
+      "email": "abhi@gmail",
+      "mobile": "9741850094",
+      "gender": "MALE",
+      "address": "pune",
+      "city": "bidar",
+      "pincode": "5224478",
+      "state": "",
+      "country": "sdfdd",
+      "hobbies": ""
+    }
+  ]
+}
